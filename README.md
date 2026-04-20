@@ -15,12 +15,11 @@ Es enthält erste Tests, Page-Object-Strukturen, Utilities sowie eine vorbereite
 ## Projektstruktur
 
 Playwright_Learning/
-│
-├── Pages/              # Page Object Dateien
-├── Tests/              # Testfälle
-├── Utilities/          # Hilfsfunktionen, Helper, Tools
-│
-├── conftest.py         # Fixtures für Browser, Kontext, Setup
-├── pytest.ini          # Pytest-Konfiguration
-├── requirements.txt    # Python-Abhängigkeiten
-└── .github/workflows/  # (optional) CI/CD Workflows
+
+Pages/              # Page Object Dateien
+Tests/              # Testfälle
+Utilities/          # Hilfsfunktionen, Helper, Tools
+conftest.py         # Fixtures für Browser, Kontext, Setup
+pytest.ini          # Pytest-Konfiguration
+requirements.txt    # Python-Abhängigkeiten
+.github/workflows/  # (optional) CI/CD Workflows
